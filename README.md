@@ -3,8 +3,8 @@ A set of module imports, default variables and functions I seem to need in too m
 
 ### Usage
 ```
-!pip install import-ipynb
-!curl -O https://raw.githubusercontent.com/olaviinha/inhagcutils/master/inhagcutils.ipynb
+!pip -q install import-ipynb
+!curl -s -O https://raw.githubusercontent.com/olaviinha/inhagcutils/master/inhagcutils.ipynb
 import import_ipynb
 from inhagcutils import *
 ```
