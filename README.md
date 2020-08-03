@@ -1,5 +1,5 @@
 # inhagcutils
-Set of modules and functions I seem to need in too many Google Colababoratory Notebooks.
+A set of module imports, default variables and functions I seem to need in too many Colab Notebooks.
 
 ### Usage
 ```
